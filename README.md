@@ -1,1 +1,3 @@
 # google-homepage
+<img src="img/google-project-screenshot.png">
+Google home page project screenshot. Still need to figure out how to get the cursor to display inside the search box. Overall, I am happy I was able to push this project out. Although I have done some minor HTML work in the past, I haven't updated my knowledge of it since the late 90s, so I did a refresher course using <a href="https://www.codecademy.com/catalog/language/html-css">CodeAcademy</a> and <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>. My preference being FreeCodeCamp as I feel it provided more in depth learning then CodeAcademy. 
